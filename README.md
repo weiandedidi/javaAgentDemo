@@ -26,6 +26,7 @@ public static void agentmain(String agentArgs);
 
 挂载的方式
 -
+- idea的挂载详见![agentSet.png](agentSet.png)
 
 ## 参考文档
 
